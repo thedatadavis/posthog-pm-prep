@@ -125,11 +125,11 @@ You will be joining PostHog as a Product Manager, working with one of our [small
 
 *   You have **strong product sense** - meaning you can identify a product’s biggest selling points and weaknesses (both user experience and commercial) and turn them into actionable insights that inform your team’s product decisions
 
-*   You’re**familiar with business and product metrics** (e.g. activation, retention, churn) and defining and tracking key product metrics. **You don’t hesitate to write SQL** (or another query language) to answer data questions
+*   You’re **familiar with business and product metrics** (e.g. activation, retention, churn) and defining and tracking key product metrics. **You don’t hesitate to write SQL** (or another query language) to answer data questions
 
 *   You’re very proactive/organized, so **you don’t wait to be told what to do**. Instead, you figure out what needs to happen, make it happen and keep multiple threads moving forward without letting things slip
 
-*   You **collaborate well**as you default to transparency, share early, and seek feedback from the team and customers in an async-first world. **Strong communication skills** are the key to strong collaboration.
+*   You **collaborate well** as you default to transparency, share early, and seek feedback from the team and customers in an async-first world. **Strong communication skills** are the key to strong collaboration.
 
 Nice-to-haves (We don’t expect you to tick all of these boxes, but 2-3 are a big plus):
 
@@ -143,7 +143,7 @@ If this sounds like you, we should talk.
 
 We are committed to ensuring a fair and accessible interview process. If you need any accommodations or adjustments, please let us know.
 
-### ### What’s in it for you?
+### What’s in it for you?
 
 Now that we've told you what you'll be building with us, let's talk about what we'll be building for you.
 
@@ -184,18 +184,18 @@ We are open to paying well beyond these ranges for exceptional talent. If this i
 ### Benefits
 --------
 
-*   ![Image 10: Generous, transparent compensation & equity](https://res.cloudinary.com/dmukukwp6/image/upload/compensation_fdc7ef7957.svg)Generous, transparent compensation & equity
-*   ![Image 11: Unlimited vacation (with a minimum!)](https://res.cloudinary.com/dmukukwp6/image/upload/pto_f32814b5f6.svg)Unlimited vacation (with a minimum!)
-*   ![Image 12: Two meeting-free days per week](https://res.cloudinary.com/dmukukwp6/image/upload/meeting_free_days_f0b2df2c8e.svg)Two meeting-free days per week
-*   ![Image 13: Home office](https://res.cloudinary.com/dmukukwp6/image/upload/home_office_24afbd2c6a.svg)Home office
-*   ![Image 14: Coworking credit](https://res.cloudinary.com/dmukukwp6/image/upload/coworking_credit_dbcb3dae46.svg)Coworking credit
-*   ![Image 15: Private health, dental, and vision insurance.](https://res.cloudinary.com/dmukukwp6/image/upload/insurance_bf6481e929.svg)Private health, dental, and vision insurance.
-*   ![Image 16: Training budget](https://res.cloudinary.com/dmukukwp6/image/upload/training_budget_8204ae2beb.svg)Training budget
-*   ![Image 17: Access to our Hedge House](https://res.cloudinary.com/dmukukwp6/image/upload/hacker_house_e8a9eda3cb.svg)Access to our Hedge House
-*   ![Image 18: Carbon offsetting](https://res.cloudinary.com/dmukukwp6/image/upload/carbon_offsetting_9c9443e012.svg)Carbon offsetting
-*   ![Image 19: Pension & 401k contributions](https://res.cloudinary.com/dmukukwp6/image/upload/retirement_b889169869.svg)Pension & 401k contributions
-*   ![Image 20: We hire and pay locally](https://res.cloudinary.com/dmukukwp6/image/upload/spill_mental_health_9dc092b6c2.svg)We hire and pay locally
-*   ![Image 21: Company offsites](https://res.cloudinary.com/dmukukwp6/image/upload/company_offsites_ad0afba76b.svg)Company offsites
+* Generous, transparent compensation & equity
+* Unlimited vacation (with a minimum!)
+* Two meeting-free days per week
+* Home office
+* Coworking credit
+* Private health, dental, and vision insurance.
+* Training budget
+* Access to our Hedge House
+* Carbon offsetting
+* Pension & 401k contributions
+* We hire and pay locally
+* Company offsites
 
 Get more details about all our benefits on the [Careers page](https://posthog.com/careers#benefits).
 
